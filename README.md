@@ -30,7 +30,7 @@ Much of my current work involves internal corporate environments. This profile f
 
 #### 1. Server Resource Monitor
 
-<img src="https://raw.githubusercontent.com/Zurdrew/[NOME-DO-SEU-REPOSITORIO]/main/banner_monitor.svg" alt="Server Monitor Banner" width="100%">
+<img src="https://raw.githubusercontent.com/Zurdrew/server-resource-monitor/main/banner_monitor.svg" alt="Server Monitor Banner" width="100%">
 
 An automated system monitoring script designed to keep track of critical infrastructure health. 
 
@@ -39,13 +39,13 @@ The tool continuously tracks CPU, RAM, and disk utilization, logging critical al
 **Focus:** Infrastructure · Server Health · Logging Automation  
 **Stack:** Python · `psutil`
 
-[View source code →](https://github.com/Zurdrew/[NOME-DO-SEU-REPOSITORIO])
+[View source code →](https://github.com/Zurdrew/server-resource-monitor)
 
 <br>
 
 #### 2. Performance Metrics Analyzer
 
-<img src="https://raw.githubusercontent.com/Zurdrew/[NOME-DO-SEU-REPOSITORIO-2]/main/banner_metrics.svg" alt="Metrics Analyzer Banner" width="100%">
+<img src="https://raw.githubusercontent.com/Zurdrew/match-stats-analyzer/main/banner_metrics.svg" alt="Metrics Analyzer Banner" width="100%">
 
 A data processing script that parses raw CSV operational data to calculate performance indicators and efficiency ratios.
 
@@ -54,13 +54,13 @@ It reads through large datasets, calculates ratios, handles division errors grac
 **Focus:** Data Parsing · Analytics · CSV Processing  
 **Stack:** Python · `csv`
 
-[View source code →](https://github.com/Zurdrew/[NOME-DO-SEU-REPOSITORIO-2])
+[View source code →](https://github.com/Zurdrew/match-stats-analyzer)
 
 <br>
 
 #### 3. Smart File Organizer
 
-<img src="https://raw.githubusercontent.com/Zurdrew/[NOME-DO-SEU-REPOSITORIO-3]/main/banner_organizer.svg" alt="File Organizer Banner" width="100%">
+<img src="https://raw.githubusercontent.com/Zurdrew/python-file-organizer/main/banner_organizer.svg" alt="File Organizer Banner" width="100%">
 
 A file system automation workflow to maintain clean and organized directories.
 
@@ -69,7 +69,7 @@ The script scans targeted folders and automatically categorizes and moves files 
 **Focus:** File System Automation · Workflow Optimization  
 **Stack:** Python · `os` · `shutil`
 
-[View source code →](https://github.com/Zurdrew/[NOME-DO-SEU-REPOSITORIO-3])
+[View source code →](https://github.com/Zurdrew/python-file-organizer)
 
 ---
 
